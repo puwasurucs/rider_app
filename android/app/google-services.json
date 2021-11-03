@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386385228422",
+    "project_id": "flutter-uber-clone-bbbfe",
+    "storage_bucket": "flutter-uber-clone-bbbfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386385228422:android:863fc04b83f433a8d19707",
+        "android_client_info": {
+          "package_name": "com.puwasuru.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386385228422-7bn5sg53or64i0k0cln09iu8b23tffai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmm8mgORDOWmpdg5dPxWwTDc6sLY3_ils"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386385228422-7bn5sg53or64i0k0cln09iu8b23tffai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
